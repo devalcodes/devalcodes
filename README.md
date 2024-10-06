@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 You can reach me on devalcodes@gmail.com
 
-You can check out the projects I worked visiting each repositories
+You can check out the projects I worked on, visiting each repositories
